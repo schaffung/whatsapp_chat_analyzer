@@ -7,7 +7,7 @@ There are already many a online websites which offer this service wherein you ca
 
 This project started off while working on some other project which also depended upon regular expressions. 
 
-Now, regex wouldn't be the best way to do the job. Probably one must take a page out of the book called `Applied Textual Analysis`. Though I am not aware of that so regex it is. Now, what can one obtain by doing a testual analysis of WhatsApp chat?
+Now, regex wouldn't be the best way to do the job. Probably one must take a page out of the book called `Applied Textual Analysis`. Though I am not aware of that so regex it is. Now, what can one obtain by doing a textual analysis of WhatsApp chat?
 I don't know. It is upon the user to take understand the inference. Hence _I hold no responsibility over any emotions which might be generated after the analysis_.:relieved:
 
 This is an ongoing project. I hope to return and improve it a little. I hope so...
