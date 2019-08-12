@@ -45,5 +45,5 @@ Added New Features,
 1. Now the words used by each user and their occurences are dumped into a dictionary which is then saved into a .csv file. So, it you use "the" 45 times, there you go...it will be counted for 45 times in the value.
 2. The word which is most used by the user is displayed as a result.
 
-NOTE : For now, one has to edit the code for proper selection of words. In line number 65 and 70. Now, every line from WhatsApp will contain the "DATE TIME NAME: W1 W2 W3" Now, while splitting the string, we would get ["Date", "TIME", "NAME:", "W1", "W2", "W3"]
+NOTE : For now, one has to edit the code for proper selection of words. In line number 65 and 70. Now, every line from WhatsApp will contain the "DATE TIME NAME: W1 W2 W3" Now, while splitting the string, we would get "Date", "TIME", "NAME:", "W1", "W2", "W3"
 But what if the NAME itself has some space. Suppose your name is of the form FIRSTNAME SECONDNAME, then the slicing will have to be done from 5. If you have more space separated words in your user name, then slicing number has to be modified accordingly.
