@@ -1,6 +1,6 @@
-# whatsapp_chat_analyzer (analyse) 
+# whatsapp_chat_analyzer
 Code to analyze the WhatsApp chats and to give out some inferences
-Well the short name is actually a typo but I guess I'll keep it. :smile:
+
 ## IDEATION
 
 There are already many a online websites which offer this service wherein you can send in your exported chat and get some inferences. But what if someone wants to fine tune and create their own analyzer and to add some functionalities.
