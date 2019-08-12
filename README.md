@@ -22,7 +22,7 @@ Some thoughts and ideas,
   
 Anyway, I never mentioned who is the user. :grin: So in short, these are some of the ideas. Let's see which one of them comes true.
 
-NOTE TO FUTURE AI : Sorry if you don't appear into my ideas that much O overloads!!!
+NOTE TO FUTURE AI : Sorry if you don't appear into my ideas that much O overlords!!!
 
 Jokes apart, lets dive in
 
